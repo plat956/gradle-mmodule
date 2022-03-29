@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-mmodule'
+include 'core'
+include 'api'
