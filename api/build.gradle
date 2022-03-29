@@ -1,5 +1,9 @@
 plugins {
-    id 'java'
+    id 'application'
+}
+
+application {
+    mainClass.set("com.epam.mmodule.App")
 }
 
 group 'com.epam'
